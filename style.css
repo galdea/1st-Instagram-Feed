@@ -44,3 +44,8 @@ div.container {
     width: 600px;
     margin: auto;
 }
+
+p {
+    padding-bottom: 15px;
+    padding-left: 15px;
+}
